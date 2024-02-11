@@ -1,5 +1,5 @@
 ## Loop Hero
-Updates to Linux break compatability with Loop Hero due to it's use of deprecated 32-bit libraries.
+_Updates to Linux break compatability with Loop Hero due to it's use of deprecated 32-bit libraries._
 
 **Problem:** Loop Hero fails to launch.
 
